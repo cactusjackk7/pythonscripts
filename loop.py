@@ -1,3 +1,4 @@
+#usr/bin/python3
 # program to find sum of all numbers stored in a list
 
 # list of numbers 
