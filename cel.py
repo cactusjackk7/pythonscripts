@@ -2,7 +2,7 @@
 #python program to convert tempature to fahrenheit
 
 #change this value for a different result
-celsius: 32.5
+celsius = 32.5
 
 #calculate fahrenheit
 fahrenheit = (celsius * 1.8) + 32
